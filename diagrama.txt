@@ -1,0 +1,18 @@
+app webhttps://gamcore.com/games/pussymon_64
+
+		    formulario
+			|
+			|
+		      boton
+			|
+			|
+		funsion del boton
+			|			
+			|
+	              datos 
+			|
+			|
+no es mayor = imprime no es mayor<---condicion-----> es mayor si = imprime en pantalla mayor
+			|
+			|
+		imprime en pantalla

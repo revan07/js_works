@@ -1,0 +1,1 @@
+articulos.push(prompt("ingrese el articulo"))
